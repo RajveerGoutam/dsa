@@ -9,7 +9,7 @@ int main()
     while(num>0)
     {
         rem=num%10;
-        num/=10;       //means num=num/10;
+        num/=10;       //means num=num/10kkkkkkkkkkkkkkk;
         ans+=rem;
     }
     cout<<ans;
